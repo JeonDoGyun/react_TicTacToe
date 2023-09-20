@@ -1,3 +1,7 @@
 .status {
   margin-bottom: 10px;
 }
+
+.board {
+  width: 100px;
+}
