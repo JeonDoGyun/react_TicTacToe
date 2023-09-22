@@ -66,6 +66,8 @@ const App = () => {
         <div className="status">{status}</div>
         <ol>{moves}</ol>
       </div>
+      aa
+      <a href="tel:010-4080-2632">전화번호</a>
     </div>
   );
 };
